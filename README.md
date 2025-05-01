@@ -1,5 +1,7 @@
+Heavily based on [this excellent repo](https://github.com/microsoft/multi-modal-customer-service-agent/blob/main/voice_agent/README.md). Check out their blog: https://techcommunity.microsoft.com/blog/machinelearningblog/automating-real-time-multi-modal-customer-service-with-ai/4354892
+
 # Voice-Agent: An Application Pattern for multi-domain agents and the GPT-4o Realtime API for Audio
-## Check out our blog post at this link https://techcommunity.microsoft.com/blog/machinelearningblog/automating-real-time-multi-modal-customer-service-with-ai/4354892
+
 
 ![Design pattern 1](app/backend/static/agent_pic.png)
 
